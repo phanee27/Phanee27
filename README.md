@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js,SpringBoot**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 How to reach me **venkataphaneendra8@gmail.com**
 
