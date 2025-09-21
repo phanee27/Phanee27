@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm phanee</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phanee27&label=Profile%20views&color=0e75b6&style=flat" alt="phanee27" /> </p>
 
 - 🔭 I’m currently working on **Asthetica**
 
-- 🌱 I’m currently learning **React.js,SpringBoot**
+- 🌱 I’m currently learning **Docker,CI/CD Pipelines**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 How to reach me **venkataphaneendra8@gmail.com**
 
-- 🌐 **Portfolio:** [phanee.dev](https://portfolio-phanee27s-projects.vercel.app)
+- 🌐 **Portfolio:** [phanee's portfolio](https://portfolio-phanee27s-projects.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
